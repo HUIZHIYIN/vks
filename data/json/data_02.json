@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d5761e3a44f818ff28fa",
+  "index": 1,
+  "age": 24,
+  "eyeColor": "blue",
+  "name": "Dina Munoz",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Moody Price"
+    },
+    {
+      "id": 1,
+      "name": "Charles Graves"
+    },
+    {
+      "id": 2,
+      "name": "Janette Burgess"
+    }
+  ]
+}

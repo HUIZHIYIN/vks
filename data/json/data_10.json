@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576f48201f0e402deaf",
+  "index": 9,
+  "age": 32,
+  "eyeColor": "brown",
+  "name": "Araceli Robles",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Cooley Barton"
+    },
+    {
+      "id": 1,
+      "name": "Miriam Olson"
+    },
+    {
+      "id": 2,
+      "name": "Keith House"
+    }
+  ]
+}

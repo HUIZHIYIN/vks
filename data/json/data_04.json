@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d5766cb9d32b13e95748",
+  "index": 3,
+  "age": 37,
+  "eyeColor": "blue",
+  "name": "Briana Vega",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Marylou Dejesus"
+    },
+    {
+      "id": 1,
+      "name": "Dixon Whitaker"
+    },
+    {
+      "id": 2,
+      "name": "Candy Burton"
+    }
+  ]
+}

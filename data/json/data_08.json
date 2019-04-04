@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576ebe91fbc497df98e",
+  "index": 7,
+  "age": 28,
+  "eyeColor": "brown",
+  "name": "Rivas Serrano",
+  "gender": "male",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Weeks Ferrell"
+    },
+    {
+      "id": 1,
+      "name": "Jacobson Porter"
+    },
+    {
+      "id": 2,
+      "name": "Eunice Richards"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576084ef1a15012c4b4",
+  "index": 5,
+  "age": 38,
+  "eyeColor": "blue",
+  "name": "Massey Gillespie",
+  "gender": "male",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Spence Bryant"
+    },
+    {
+      "id": 1,
+      "name": "Leslie Powers"
+    },
+    {
+      "id": 2,
+      "name": "Gina Mercado"
+    }
+  ]
+}

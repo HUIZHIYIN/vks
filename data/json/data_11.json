@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d5769cf42e2a111271a7",
+  "index": 10,
+  "age": 30,
+  "eyeColor": "blue",
+  "name": "Lois Barrett",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Emily Woodward"
+    },
+    {
+      "id": 1,
+      "name": "Audra Burt"
+    },
+    {
+      "id": 2,
+      "name": "Gabriela Mcdowell"
+    }
+  ]
+}

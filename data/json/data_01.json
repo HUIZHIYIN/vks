@@ -1,0 +1,22 @@
+{
+    "_id": "5ca2d5766a232f661093de66",
+    "index": 0,
+    "age": 28,
+    "eyeColor": "brown",
+    "name": "Shaw Hendricks",
+    "gender": "male",
+    "friends": [
+      {
+        "id": 0,
+        "name": "Spears Mcleod"
+      },
+      {
+        "id": 1,
+        "name": "Angelita Whitehead"
+      },
+      {
+        "id": 2,
+        "name": "Lourdes Potter"
+      }
+    ]
+}

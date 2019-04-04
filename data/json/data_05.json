@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576faf1ae65d22d4833",
+  "index": 4,
+  "age": 37,
+  "eyeColor": "brown",
+  "name": "Logan Wells",
+  "gender": "male",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Cote Mcguire"
+    },
+    {
+      "id": 1,
+      "name": "Mari Knowles"
+    },
+    {
+      "id": 2,
+      "name": "Cruz Dean"
+    }
+  ]
+}

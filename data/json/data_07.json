@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576aeaa3ab853623640",
+  "index": 6,
+  "age": 32,
+  "eyeColor": "brown",
+  "name": "Mara Ellison",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Watson Curtis"
+    },
+    {
+      "id": 1,
+      "name": "Kellie Vincent"
+    },
+    {
+      "id": 2,
+      "name": "Hartman Cochran"
+    }
+  ]
+}

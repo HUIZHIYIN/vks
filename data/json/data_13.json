@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576f3c32615ad7a263e",
+  "index": 12,
+  "age": 39,
+  "eyeColor": "green",
+  "name": "Bianca Gallegos",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Lawrence Waters"
+    },
+    {
+      "id": 1,
+      "name": "Kathryn Simmons"
+    },
+    {
+      "id": 2,
+      "name": "Manning Marshall"
+    }
+  ]
+}

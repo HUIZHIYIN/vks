@@ -1,0 +1,22 @@
+{
+  "_id": "5ca2d576e7378b2b08b9f73c",
+  "index": 2,
+  "age": 29,
+  "eyeColor": "green",
+  "name": "Kristen Bartlett",
+  "gender": "female",
+  "friends": [
+    {
+      "id": 0,
+      "name": "Gibbs Spencer"
+    },
+    {
+      "id": 1,
+      "name": "Rosanne Gardner"
+    },
+    {
+      "id": 2,
+      "name": "Arlene Terry"
+    }
+  ]
+}
